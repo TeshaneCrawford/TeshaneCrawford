@@ -4,9 +4,9 @@
 <h3 align="center">Bachelor in Computer Science</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=TeshaneCrawford alt=TeshaneCrawford/></p>
 
-I'm a Full Stack Software Developer with experience writing code in JavaScript, Python and C#. I'm passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Full Stack Software Developer with experience writing code in *JavaScript **(React.Js & Vue.Js)**, Python **(Flask & Django)** and C# **(.Net)***. I'm passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently working on **vPhotohouse**
+- 🔭 I’m currently working on **Photohouse**
 - 🌱 I’m currently learning ... **Backend Web Development using Express.Js, PostgreSQL and MongoDB**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for fulltime or internship opportunities**
