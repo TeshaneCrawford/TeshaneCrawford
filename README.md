@@ -10,7 +10,7 @@ I'm a Full Stack Software Developer with experience writing code in *JavaScript 
 - 🌱 I’m currently learning ... **Backend Web Development using TypeScript, Express.Js, PostgreSQL and MongoDB**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for fulltime or internship opportunities**
-- 🔭 I’m a pass Computer Science student of the University of Technology Jamaica. 
+- 🔭 I’m a past Computer Science student of the University of Technology Jamaica. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/teshanecrawford/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeshaneCrawford&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
