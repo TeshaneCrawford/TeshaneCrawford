@@ -1,4 +1,4 @@
-### Hi there 👋
+### Teshane Crawford 👋
 
 <h3 align="center">A passionate Fullstack Web Developer from Jamaica</h3>
 <h3 align="center">Bachelor in Computer Science</h3>
