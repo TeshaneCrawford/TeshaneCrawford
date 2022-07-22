@@ -10,7 +10,7 @@ I'm a Full Stack Software Developer with experience writing code in JavaScript (
 * 🖥️  See my portfolio at [teshane.tech](http://teshane.tech)
 * ✉️  You can contact me at [crawfordteshane@gmail.com](mailto:crawfordteshane@gmail.com)
 * 🚀  I'm currently working on [trip-insight](http://trip-insight.vercel.app/)
-* 🧠  I'm learning Backend Web Development using **TypeScript (Nest.Js), Golang, GraghQL, PostgreSQL, MySQL and MongoDB**.
+* 🧠  I'm learning Backend Web Development using **TypeScript (Express/Nest.Js), Golang, GraghQL, PostgreSQL, MySQL and MongoDB**.
 * 🤝  I'm open to collaborating on many interesting projects.
 * ⚡  I'm seeking full-time, internship or part-time opportunities.
 
