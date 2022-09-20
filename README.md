@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Developer
 -----------------------------
 
-I'm a Full Stack Software Developer with experience writing code in JavaScript (React.Js & Vue.Js), Python (Flask & Django) and C# (.Net). I'm passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Full Stack Software Developer with experience writing code in JavaScript (Angular, React.Js & Vue.Js), Python (Flask & Django) and C# (.Net). I'm passionate about writing code, solving problems, automating stuff, and building software.
 
 * 🌍  I'm based in Kingston, Jamaica
 * 🖥️  See my portfolio at [teshane.tech](http://teshane.tech)
