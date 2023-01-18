@@ -55,10 +55,10 @@ src="https://img.shields.io/twitter/follow/_D_Shybrid?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TeshaneCrawford"><img src="https://github-readme-stats.vercel.app/api?username=TeshaneCrawford&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=0f172a&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="TeshaneCrawford's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/TeshaneCrawford"><img src="https://github-readme-stats.vercel.app/api?username=TeshaneCrawford&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=0f172a&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="TeshaneCrawford's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/TeshaneCrawford"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TeshaneCrawford&stroke=0f172a&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=0f172a&currStreakLabel=0f172a&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="http://www.github.com/TeshaneCrawford"><img src="https://activity-graph.herokuapp.com/graph?username=TeshaneCrawford&bg_color=ffffff&color=0f172a&line=444e59&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/TeshaneCrawford"><img src="https://activity-graph.herokuapp.com/graph?username=TeshaneCrawford&bg_color=ffffff&color=0f172a&line=444e59&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<a href="https://github.com/TeshaneCrawford" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshaneCrawford&langs_count=10&title_color=0f172a&text_color=0f172a&icon_color=444e59&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/TeshaneCrawford" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshaneCrawford&langs_count=10&title_color=0f172a&text_color=0f172a&icon_color=444e59&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
