@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teshane Crawford</h1>
-<h3 align="center">I am a Software Engineer from Jamaica, specialized in Web Development, and Mobile App Development, using tools such as: React (Next.js), Vue.Js (Nuxt.Js), Flutter, ASP.Net (C#), Flask & Django (Python), MySQL & PostgreSQL Database, Adobe XD. I am constantly unlearning and relearning.</h3>
+<h3 align="center">I am a Software Engineer from Jamaica, specialized in Web Development, and Mobile App Development, using tools such as: React (Next.js) (React Native), Vue.Js (Nuxt.Js), Flutter, ASP.Net (C#), Flask (Python), MySQL & PostgreSQL Database, Adobe XD. I am constantly unlearning and relearning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teshanecrawford&label=Profile%20views&color=0e75b6&style=flat" alt="teshanecrawford" /> </p>
 
