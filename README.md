@@ -3,7 +3,7 @@
   <br>
   TypeScript: React (Next.js), Vue.js, Angular, (React Native)
   <br>
-  ASP.Net Core (C#), MySQL & PostgreSQL, & Redis Database. 
+  ASP.Net(C#), MySQL & PostgreSQL, & Redis Database. 
   <br>
   I am constantly unlearning and relearning.</h3>
 
