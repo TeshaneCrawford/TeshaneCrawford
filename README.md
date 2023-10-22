@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/teshanecrawford/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/TeshaneCrawford" target="_blank">
+  <a href="https://twitter.com/_d_shybrid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="csharp logo"  />
+  <img src="https://cdn.simpleicons.org/csharp/512BD4" height="40" alt="csharp logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="16" />
