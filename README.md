@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">.NET and TypeScript Developer.<br><br>- 📚 I'm currently learning Java.</p>
+<p align="center">Software Engineer with .NET and TypeScript experience.<br><br>- 📚 I'm currently learning Java and Spring Boot.</p>
 
 ###
 
