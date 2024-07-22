@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">Software Engineer with .NET and TypeScript experience.<br><br>- 📚 I'm currently learning Java and Spring Boot.</p>
+<p align="center">Software Engineer with .NET and TypeScript experience.<br><br>- 📚 I'm currently learning Kotlin and Android development.</p>
 
 ###
 
@@ -34,7 +34,6 @@
   <img width="16" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
@@ -45,8 +44,6 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6BD33F" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
   <img width="12" />
