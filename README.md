@@ -1,6 +1,6 @@
 <div align='center'>
   <p>
-      I'm <strong>Teshane Crawford</strong>, a Full-Stack Software Engineer driven by the endless possibilities of technology. With a strong foundation in C#, TypeScript, and Azure cloud        solutions, I thrive on building scalable applications that solve real-world challenges. My approach combines technical excellence with a growth mindset, always eager to explore            emerging technologies and push the boundaries of what's possible.
+      I'm <strong>Teshane Crawford</strong>, a Full-Stack Software Engineer with a strong foundation in C#, TypeScript, and Azure cloud solutions.
   </p>
 </div>
 
